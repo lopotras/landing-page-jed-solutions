@@ -22,7 +22,7 @@ interface SociaNetworkslProps {
 
 const teamList: TeamProps[] = [
   {
-    imageUrl: "/michal.png",
+    imageUrl: "./michal.png",
     name: "Michał Zaleśny",
     position: "CEO",
     socialNetworks: [
@@ -33,7 +33,7 @@ const teamList: TeamProps[] = [
     ],
   },
   {
-    imageUrl: "/jedi.png",
+    imageUrl: "./jedi.png",
     name: "Jędrzej Silczak",
     position: "CTO",
     socialNetworks: [
