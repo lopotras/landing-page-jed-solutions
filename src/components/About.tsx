@@ -1,4 +1,3 @@
-import { Statistics } from "./Statistics";
 import pilot from "../../public/w4r.webp";
 
 export const About = () => {
