@@ -1,5 +1,5 @@
 import { Statistics } from "./Statistics";
-import pilot from "../assets/pilot.png";
+import pilot from "../../public/w4r.webp";
 
 export const About = () => {
   return (
@@ -23,15 +23,19 @@ export const About = () => {
                 Company
               </h2>
               <p className="text-xl text-muted-foreground mt-4">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit
-                amet, consectetur adipiscing elit.
+                We are a global technology consulting firm specializing in custom software
+                development and IT solutions. With expertise across multiple industries,
+                we help businesses transform their digital landscape through innovative
+                programming services, strategic IT consulting, and cutting-edge technical
+                implementations. Our international team delivers excellence in software
+                development, system integration, and technology optimization.
+              </p>
+              <p className="text-xl text-muted-foreground mt-4">
+                Contact us at <a href="mailto:contact@work4rail.com" className="text-primary hover:text-primary/80">contact@work4rail.com</a>.
               </p>
             </div>
 
-            <Statistics />
+            {/* <Statistics /> */}
           </div>
         </div>
       </div>
