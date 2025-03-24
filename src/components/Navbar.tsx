@@ -47,7 +47,7 @@ export const Navbar = () => {
               className="ml-2 font-bold text-xl flex"
             >
               <LogoIcon />
-              Work4Rail
+              JED Solutions
             </a>
           </NavigationMenuItem>
 

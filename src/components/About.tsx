@@ -1,4 +1,4 @@
-import pilot from "../../public/w4r.webp";
+import pilot from "../../public/logo-web.png";
 
 export const About = () => {
   return (
@@ -22,15 +22,17 @@ export const About = () => {
                 Company
               </h2>
               <p className="text-xl text-muted-foreground mt-4">
-                We are a global technology consulting firm specializing in custom software
-                development and IT solutions. With expertise across multiple industries,
-                we help businesses transform their digital landscape through innovative
-                programming services, strategic IT consulting, and cutting-edge technical
-                implementations. Our international team delivers excellence in software
-                development, system integration, and technology optimization.
+                We are a global technology consulting firm specializing in financial systems
+                optimization and distributed computing solutions. With deep expertise in
+                building payment processing systems
+                and scalable banking infrastructure, we help financial institutions
+                transform their digital landscape through innovative distributed systems
+                architecture. Our international team delivers excellence in developing
+                fault-tolerant, highly available financial software systems, with focus on
+                scalability and performance.
               </p>
               <p className="text-xl text-muted-foreground mt-4">
-                Contact us at <a href="mailto:contact@work4rail.com" className="text-primary hover:text-primary/80">contact@work4rail.com</a>.
+                Contact us at <a href="mailto:jedi@jedsolutions.xyz" className="text-primary hover:text-primary/80">jedi@jedsolutions.xyz</a>.
               </p>
             </div>
 

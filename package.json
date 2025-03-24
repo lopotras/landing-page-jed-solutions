@@ -1,11 +1,11 @@
 {
   "name": "shadcn-landing-page-template",
-  "homepage": "https://work4rail.github.io/landing-page/",
+  "homepage": "https://jedsolutions.xyz",
   "description": "Landing page template utilizing Shadcn, React, Typescript, and Tailwind CSS for rapid development and responsive design.",
   "author": {
-    "name": "Leopoldo Miranda",
-    "email": "leomirandadev@gmail.com",
-    "url": "https://github.com/leoMirandaa"
+    "name": "Jedrzej Silczak",
+    "email": "jedi@jedsolutions.xyz",
+    "url": "https://github.com/lopotras"
   },
   "license": "MIT",
   "keywords": [

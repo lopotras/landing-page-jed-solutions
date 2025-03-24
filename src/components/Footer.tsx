@@ -13,7 +13,7 @@ export const Footer = () => {
             className="font-bold text-xl flex"
           >
             <LogoIcon />
-            Work4Rail
+            JED Solutions
           </a>
         </div>
 
@@ -152,7 +152,7 @@ export const Footer = () => {
 
       <section className="container pb-14 text-center">
         <h3>
-          &copy; 2025 Work4Rail, made by{" "}
+          &copy; 2025 JED Solutions, made by{" "}
           <a
             rel="noreferrer noopener"
             target="_blank"

@@ -22,20 +22,9 @@ interface SociaNetworkslProps {
 
 const teamList: TeamProps[] = [
   {
-    imageUrl: "./michal.png",
-    name: "Michał Zaleśny",
-    position: "CEO",
-    socialNetworks: [
-      {
-        name: "Linkedin",
-        url: "https://www.linkedin.com/in/micha%C5%82-zale%C5%9Bny-6604b922a/",
-      }
-    ],
-  },
-  {
     imageUrl: "./jedi.png",
     name: "Jędrzej Silczak",
-    position: "CTO",
+    position: "Owner",
     socialNetworks: [
       {
         name: "Linkedin",
@@ -66,9 +55,9 @@ export const Team = () => {
     >
       <h2 className="text-3xl md:text-4xl font-bold">
         <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
-          Our Dedicated{" "}
+          The {" "}
         </span>
-        Crew
+        Team
       </h2>
 
       <p className="mt-4 mb-10 text-xl text-muted-foreground">
